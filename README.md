@@ -1,1 +1,1 @@
-Stacks, Queues - LIFO, FIFO
+simple interpreter for Monty ByteCodes
